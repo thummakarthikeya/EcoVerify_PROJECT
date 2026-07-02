@@ -1,0 +1,353 @@
+review_id,product,theme_true,review_text
+262,shampoo bottle,price_of_ethical,Ethical shampoo bottle brands need to be more affordable for everyday consumers like me.
+188,coffee brand,ethical_sourcing,"The coffee brand ingredients might come from unethical suppliers, hard to verify."
+202,smartphone,recycling_biodegradable,This smartphone is fully recyclable and the company even offers a take-back program.
+211,energy drink,recycling_biodegradable,"None of the energy drink materials seem recyclable, it will just end up in a landfill."
+141,energy drink,carbon_footprint,No mention anywhere of the carbon footprint of producing this energy drink.
+76,smartphone,labor_practices,No transparency about who makes this smartphone or under what working conditions.
+317,backpack,corporate_transparency,Would love more transparency from this backpack brand about their environmental impact.
+196,headphones,ethical_sourcing,I wish there was clearer sourcing information printed on the headphones label.
+302,t-shirt,corporate_transparency,"They openly share supply chain data for the t-shirt, which builds a lot of trust."
+100,laptop,greenwashing_skepticism,They slap a green leaf logo on the laptop but nothing about it is actually sustainable.
+149,furniture set,carbon_footprint,"This furniture set company publishes its carbon emissions every year, very transparent."
+231,skincare set,recycling_biodegradable,I tried to recycle the skincare set container but my local center won't accept it.
+244,headphones,price_of_ethical,Sustainable options for this headphones are always so much more expensive than regular ones.
+108,grocery brand,greenwashing_skepticism,I appreciate that the grocery brand brand backs its eco claims with third-party certification.
+133,smartphone,carbon_footprint,Loved that this smartphone brand offsets carbon emissions from shipping.
+315,coffee brand,corporate_transparency,Would love more transparency from this coffee brand brand about their environmental impact.
+280,energy drink,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible energy drink.
+213,skincare set,recycling_biodegradable,"None of the skincare set materials seem recyclable, it will just end up in a landfill."
+45,smartphone,labor_practices,"I read that workers making this smartphone are underpaid, I won't buy it again."
+83,laptop,greenwashing_skepticism,This laptop brand claims to be eco-friendly but I think it's just greenwashing.
+120,energy drink,greenwashing_skepticism,Marketing calls this energy drink 'green' but the ingredients list says otherwise.
+279,laptop,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible laptop.
+216,skincare set,recycling_biodegradable,"None of the skincare set materials seem recyclable, it will just end up in a landfill."
+4,energy drink,packaging_waste,"The energy drink came wrapped in so much plastic, it felt so wasteful and unnecessary."
+55,smartphone,labor_practices,Glad to see this smartphone brand is fair-trade certified and pays workers fairly.
+254,t-shirt,price_of_ethical,Willing to pay a bit more for the t-shirt because it's ethically made.
+311,smartphone,corporate_transparency,This smartphone brand hides behind vague statements instead of real transparency.
+189,skincare set,ethical_sourcing,"The skincare set ingredients might come from unethical suppliers, hard to verify."
+287,headphones,corporate_transparency,"This headphones company publishes a detailed sustainability report every year, very transparent."
+172,sneakers,ethical_sourcing,"Not sure where the raw materials for this sneakers even come from, no info given."
+314,laptop,corporate_transparency,Would love more transparency from this laptop brand about their environmental impact.
+138,headphones,carbon_footprint,No mention anywhere of the carbon footprint of producing this headphones.
+306,laptop,corporate_transparency,This laptop brand hides behind vague statements instead of real transparency.
+82,furniture set,greenwashing_skepticism,This furniture set brand claims to be eco-friendly but I think it's just greenwashing.
+102,coffee brand,greenwashing_skepticism,They slap a green leaf logo on the coffee brand but nothing about it is actually sustainable.
+75,handbag,labor_practices,No transparency about who makes this handbag or under what working conditions.
+135,coffee brand,carbon_footprint,Loved that this coffee brand brand offsets carbon emissions from shipping.
+271,grocery brand,price_of_ethical,"The eco-friendly version of this grocery brand costs almost double, not everyone can afford that."
+324,grocery brand,animal_testing,Glad this grocery brand is certified cruelty-free and never tested on animals.
+132,detergent,carbon_footprint,Loved that this detergent brand offsets carbon emissions from shipping.
+197,skincare set,ethical_sourcing,I wish there was clearer sourcing information printed on the skincare set label.
+321,energy drink,animal_testing,Glad this energy drink is certified cruelty-free and never tested on animals.
+139,grocery brand,carbon_footprint,No mention anywhere of the carbon footprint of producing this grocery brand.
+13,headphones,packaging_waste,I love that this headphones uses recyclable cardboard instead of plastic packaging.
+229,detergent,recycling_biodegradable,I tried to recycle the detergent container but my local center won't accept it.
+322,headphones,animal_testing,Glad this headphones is certified cruelty-free and never tested on animals.
+44,jacket,labor_practices,"I read that workers making this jacket are underpaid, I won't buy it again."
+288,skincare set,corporate_transparency,"This skincare set company publishes a detailed sustainability report every year, very transparent."
+97,shampoo bottle,greenwashing_skepticism,They slap a green leaf logo on the shampoo bottle but nothing about it is actually sustainable.
+331,jacket,animal_testing,"Not clear if this jacket brand tests on animals, wish it was labeled clearly."
+22,laptop,packaging_waste,"Way too much single-use plastic packaging for a small laptop, really disappointed."
+192,furniture set,ethical_sourcing,"The furniture set ingredients might come from unethical suppliers, hard to verify."
+294,smartphone,corporate_transparency,I can't find any information about this smartphone company's social responsibility efforts.
+289,backpack,corporate_transparency,I can't find any information about this backpack company's social responsibility efforts.
+119,furniture set,greenwashing_skepticism,Marketing calls this furniture set 'green' but the ingredients list says otherwise.
+19,sneakers,packaging_waste,"Way too much single-use plastic packaging for a small sneakers, really disappointed."
+115,backpack,greenwashing_skepticism,Marketing calls this backpack 'green' but the ingredients list says otherwise.
+255,energy drink,price_of_ethical,Willing to pay a bit more for the energy drink because it's ethically made.
+320,shampoo bottle,corporate_transparency,Would love more transparency from this shampoo bottle brand about their environmental impact.
+332,laptop,animal_testing,"Not clear if this laptop brand tests on animals, wish it was labeled clearly."
+63,backpack,labor_practices,"There are rumors of poor factory conditions behind this backpack, very concerning."
+148,headphones,carbon_footprint,"This headphones company publishes its carbon emissions every year, very transparent."
+337,smartphone,animal_testing,Switched to this smartphone because it's vegan and cruelty-free certified.
+169,backpack,ethical_sourcing,"Not sure where the raw materials for this backpack even come from, no info given."
+220,furniture set,recycling_biodegradable,The furniture set packaging is biodegradable which is a nice environmentally friendly touch.
+186,backpack,ethical_sourcing,"The backpack ingredients might come from unethical suppliers, hard to verify."
+348,sneakers,animal_testing,Disappointed to learn this sneakers brand still tests on animals in some markets.
+60,detergent,labor_practices,"There are rumors of poor factory conditions behind this detergent, very concerning."
+87,handbag,greenwashing_skepticism,This handbag brand claims to be eco-friendly but I think it's just greenwashing.
+222,handbag,recycling_biodegradable,The handbag packaging is biodegradable which is a nice environmentally friendly touch.
+178,detergent,ethical_sourcing,This detergent brand sources materials responsibly and shows proof on their site.
+37,detergent,packaging_waste,Why does a detergent need three layers of plastic wrap? Terrible for the environment.
+301,sneakers,corporate_transparency,"They openly share supply chain data for the sneakers, which builds a lot of trust."
+129,laptop,carbon_footprint,Loved that this laptop brand offsets carbon emissions from shipping.
+84,detergent,greenwashing_skepticism,This detergent brand claims to be eco-friendly but I think it's just greenwashing.
+341,handbag,animal_testing,Switched to this handbag because it's vegan and cruelty-free certified.
+180,jacket,ethical_sourcing,This jacket brand sources materials responsibly and shows proof on their site.
+347,t-shirt,animal_testing,Disappointed to learn this t-shirt brand still tests on animals in some markets.
+23,skincare set,packaging_waste,"Way too much single-use plastic packaging for a small skincare set, really disappointed."
+49,detergent,labor_practices,Glad to see this detergent brand is fair-trade certified and pays workers fairly.
+263,shampoo bottle,price_of_ethical,Ethical shampoo bottle brands need to be more affordable for everyday consumers like me.
+117,coffee brand,greenwashing_skepticism,Marketing calls this coffee brand 'green' but the ingredients list says otherwise.
+17,jacket,packaging_waste,"Way too much single-use plastic packaging for a small jacket, really disappointed."
+212,coffee brand,recycling_biodegradable,"None of the coffee brand materials seem recyclable, it will just end up in a landfill."
+187,skincare set,ethical_sourcing,"The skincare set ingredients might come from unethical suppliers, hard to verify."
+153,shampoo bottle,carbon_footprint,Shipping this shampoo bottle internationally seems terrible for emissions and climate.
+251,headphones,price_of_ethical,Willing to pay a bit more for the headphones because it's ethically made.
+240,sneakers,recycling_biodegradable,Great that this sneakers brand uses recycled materials in their products.
+350,energy drink,animal_testing,Disappointed to learn this energy drink brand still tests on animals in some markets.
+243,smartphone,price_of_ethical,Sustainable options for this smartphone are always so much more expensive than regular ones.
+218,t-shirt,recycling_biodegradable,The t-shirt packaging is biodegradable which is a nice environmentally friendly touch.
+193,energy drink,ethical_sourcing,I wish there was clearer sourcing information printed on the energy drink label.
+107,t-shirt,greenwashing_skepticism,I appreciate that the t-shirt brand backs its eco claims with third-party certification.
+16,grocery brand,packaging_waste,I love that this grocery brand uses recyclable cardboard instead of plastic packaging.
+137,laptop,carbon_footprint,No mention anywhere of the carbon footprint of producing this laptop.
+125,handbag,carbon_footprint,The handbag ships from overseas which must have a huge carbon footprint.
+313,skincare set,corporate_transparency,Would love more transparency from this skincare set brand about their environmental impact.
+43,energy drink,labor_practices,"I read that workers making this energy drink are underpaid, I won't buy it again."
+199,coffee brand,ethical_sourcing,I wish there was clearer sourcing information printed on the coffee brand label.
+9,energy drink,packaging_waste,I love that this energy drink uses recyclable cardboard instead of plastic packaging.
+113,laptop,greenwashing_skepticism,Marketing calls this laptop 'green' but the ingredients list says otherwise.
+47,shampoo bottle,labor_practices,"I read that workers making this shampoo bottle are underpaid, I won't buy it again."
+303,energy drink,corporate_transparency,"They openly share supply chain data for the energy drink, which builds a lot of trust."
+214,detergent,recycling_biodegradable,"None of the detergent materials seem recyclable, it will just end up in a landfill."
+273,laptop,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible laptop.
+335,furniture set,animal_testing,"Not clear if this furniture set brand tests on animals, wish it was labeled clearly."
+93,backpack,greenwashing_skepticism,Not convinced their 'sustainable' backpack claims are backed by any real proof.
+226,laptop,recycling_biodegradable,I tried to recycle the laptop container but my local center won't accept it.
+160,grocery brand,carbon_footprint,Shipping this grocery brand internationally seems terrible for emissions and climate.
+104,headphones,greenwashing_skepticism,They slap a green leaf logo on the headphones but nothing about it is actually sustainable.
+338,jacket,animal_testing,Switched to this jacket because it's vegan and cruelty-free certified.
+327,laptop,animal_testing,Glad this laptop is certified cruelty-free and never tested on animals.
+124,smartphone,carbon_footprint,The smartphone ships from overseas which must have a huge carbon footprint.
+174,t-shirt,ethical_sourcing,"Not sure where the raw materials for this t-shirt even come from, no info given."
+6,laptop,packaging_waste,"The laptop came wrapped in so much plastic, it felt so wasteful and unnecessary."
+185,grocery brand,ethical_sourcing,"The grocery brand ingredients might come from unethical suppliers, hard to verify."
+25,sneakers,packaging_waste,"The sneakers box was biodegradable and compostable, which I really appreciated."
+74,headphones,labor_practices,No transparency about who makes this headphones or under what working conditions.
+116,jacket,greenwashing_skepticism,Marketing calls this jacket 'green' but the ingredients list says otherwise.
+259,detergent,price_of_ethical,Ethical detergent brands need to be more affordable for everyday consumers like me.
+15,t-shirt,packaging_waste,I love that this t-shirt uses recyclable cardboard instead of plastic packaging.
+66,headphones,labor_practices,"The company publishes factory audit reports for their headphones, that builds trust."
+78,laptop,labor_practices,No transparency about who makes this laptop or under what working conditions.
+352,detergent,animal_testing,Disappointed to learn this detergent brand still tests on animals in some markets.
+224,skincare set,recycling_biodegradable,The skincare set packaging is biodegradable which is a nice environmentally friendly touch.
+101,furniture set,greenwashing_skepticism,They slap a green leaf logo on the furniture set but nothing about it is actually sustainable.
+182,t-shirt,ethical_sourcing,This t-shirt brand sources materials responsibly and shows proof on their site.
+89,handbag,greenwashing_skepticism,Not convinced their 'sustainable' handbag claims are backed by any real proof.
+310,handbag,corporate_transparency,This handbag brand hides behind vague statements instead of real transparency.
+158,coffee brand,carbon_footprint,Shipping this coffee brand internationally seems terrible for emissions and climate.
+156,skincare set,carbon_footprint,Shipping this skincare set internationally seems terrible for emissions and climate.
+205,jacket,recycling_biodegradable,This jacket is fully recyclable and the company even offers a take-back program.
+325,grocery brand,animal_testing,Glad this grocery brand is certified cruelty-free and never tested on animals.
+67,jacket,labor_practices,"The company publishes factory audit reports for their jacket, that builds trust."
+342,energy drink,animal_testing,Switched to this energy drink because it's vegan and cruelty-free certified.
+333,t-shirt,animal_testing,"Not clear if this t-shirt brand tests on animals, wish it was labeled clearly."
+173,handbag,ethical_sourcing,"Not sure where the raw materials for this handbag even come from, no info given."
+145,backpack,carbon_footprint,"This backpack company publishes its carbon emissions every year, very transparent."
+131,sneakers,carbon_footprint,Loved that this sneakers brand offsets carbon emissions from shipping.
+151,shampoo bottle,carbon_footprint,"This shampoo bottle company publishes its carbon emissions every year, very transparent."
+343,sneakers,animal_testing,Switched to this sneakers because it's vegan and cruelty-free certified.
+18,sneakers,packaging_waste,"Way too much single-use plastic packaging for a small sneakers, really disappointed."
+346,furniture set,animal_testing,Disappointed to learn this furniture set brand still tests on animals in some markets.
+323,headphones,animal_testing,Glad this headphones is certified cruelty-free and never tested on animals.
+103,energy drink,greenwashing_skepticism,They slap a green leaf logo on the energy drink but nothing about it is actually sustainable.
+50,smartphone,labor_practices,Glad to see this smartphone brand is fair-trade certified and pays workers fairly.
+165,smartphone,ethical_sourcing,"Happy to see the smartphone uses ethically sourced, cruelty-free materials."
+58,grocery brand,labor_practices,"There are rumors of poor factory conditions behind this grocery brand, very concerning."
+59,coffee brand,labor_practices,"There are rumors of poor factory conditions behind this coffee brand, very concerning."
+183,jacket,ethical_sourcing,This jacket brand sources materials responsibly and shows proof on their site.
+90,t-shirt,greenwashing_skepticism,Not convinced their 'sustainable' t-shirt claims are backed by any real proof.
+118,headphones,greenwashing_skepticism,Marketing calls this headphones 'green' but the ingredients list says otherwise.
+269,skincare set,price_of_ethical,"The eco-friendly version of this skincare set costs almost double, not everyone can afford that."
+57,smartphone,labor_practices,"There are rumors of poor factory conditions behind this smartphone, very concerning."
+291,laptop,corporate_transparency,I can't find any information about this laptop company's social responsibility efforts.
+234,skincare set,recycling_biodegradable,Great that this skincare set brand uses recycled materials in their products.
+312,t-shirt,corporate_transparency,This t-shirt brand hides behind vague statements instead of real transparency.
+270,handbag,price_of_ethical,"The eco-friendly version of this handbag costs almost double, not everyone can afford that."
+41,detergent,labor_practices,"I read that workers making this detergent are underpaid, I won't buy it again."
+69,skincare set,labor_practices,"The company publishes factory audit reports for their skincare set, that builds trust."
+194,t-shirt,ethical_sourcing,I wish there was clearer sourcing information printed on the t-shirt label.
+166,laptop,ethical_sourcing,"Happy to see the laptop uses ethically sourced, cruelty-free materials."
+329,backpack,animal_testing,"Not clear if this backpack brand tests on animals, wish it was labeled clearly."
+167,shampoo bottle,ethical_sourcing,"Happy to see the shampoo bottle uses ethically sourced, cruelty-free materials."
+7,laptop,packaging_waste,"The laptop came wrapped in so much plastic, it felt so wasteful and unnecessary."
+106,furniture set,greenwashing_skepticism,I appreciate that the furniture set brand backs its eco claims with third-party certification.
+46,coffee brand,labor_practices,"I read that workers making this coffee brand are underpaid, I won't buy it again."
+204,coffee brand,recycling_biodegradable,This coffee brand is fully recyclable and the company even offers a take-back program.
+61,sneakers,labor_practices,"There are rumors of poor factory conditions behind this sneakers, very concerning."
+232,detergent,recycling_biodegradable,I tried to recycle the detergent container but my local center won't accept it.
+159,energy drink,carbon_footprint,Shipping this energy drink internationally seems terrible for emissions and climate.
+281,coffee brand,corporate_transparency,"This coffee brand company publishes a detailed sustainability report every year, very transparent."
+208,sneakers,recycling_biodegradable,This sneakers is fully recyclable and the company even offers a take-back program.
+91,jacket,greenwashing_skepticism,Not convinced their 'sustainable' jacket claims are backed by any real proof.
+242,headphones,price_of_ethical,Sustainable options for this headphones are always so much more expensive than regular ones.
+248,laptop,price_of_ethical,Sustainable options for this laptop are always so much more expensive than regular ones.
+64,skincare set,labor_practices,"There are rumors of poor factory conditions behind this skincare set, very concerning."
+175,shampoo bottle,ethical_sourcing,"Not sure where the raw materials for this shampoo bottle even come from, no info given."
+236,sneakers,recycling_biodegradable,Great that this sneakers brand uses recycled materials in their products.
+92,coffee brand,greenwashing_skepticism,Not convinced their 'sustainable' coffee brand claims are backed by any real proof.
+339,jacket,animal_testing,Switched to this jacket because it's vegan and cruelty-free certified.
+344,furniture set,animal_testing,Switched to this furniture set because it's vegan and cruelty-free certified.
+79,energy drink,labor_practices,No transparency about who makes this energy drink or under what working conditions.
+11,furniture set,packaging_waste,I love that this furniture set uses recyclable cardboard instead of plastic packaging.
+33,laptop,packaging_waste,Why does a laptop need three layers of plastic wrap? Terrible for the environment.
+111,skincare set,greenwashing_skepticism,I appreciate that the skincare set brand backs its eco claims with third-party certification.
+284,furniture set,corporate_transparency,"This furniture set company publishes a detailed sustainability report every year, very transparent."
+201,furniture set,recycling_biodegradable,This furniture set is fully recyclable and the company even offers a take-back program.
+150,backpack,carbon_footprint,"This backpack company publishes its carbon emissions every year, very transparent."
+95,handbag,greenwashing_skepticism,Not convinced their 'sustainable' handbag claims are backed by any real proof.
+10,t-shirt,packaging_waste,I love that this t-shirt uses recyclable cardboard instead of plastic packaging.
+140,headphones,carbon_footprint,No mention anywhere of the carbon footprint of producing this headphones.
+340,backpack,animal_testing,Switched to this backpack because it's vegan and cruelty-free certified.
+177,shampoo bottle,ethical_sourcing,This shampoo bottle brand sources materials responsibly and shows proof on their site.
+20,t-shirt,packaging_waste,"Way too much single-use plastic packaging for a small t-shirt, really disappointed."
+29,furniture set,packaging_waste,"The furniture set box was biodegradable and compostable, which I really appreciated."
+328,detergent,animal_testing,Glad this detergent is certified cruelty-free and never tested on animals.
+144,furniture set,carbon_footprint,No mention anywhere of the carbon footprint of producing this furniture set.
+267,shampoo bottle,price_of_ethical,"The eco-friendly version of this shampoo bottle costs almost double, not everyone can afford that."
+181,grocery brand,ethical_sourcing,This grocery brand brand sources materials responsibly and shows proof on their site.
+318,laptop,corporate_transparency,Would love more transparency from this laptop brand about their environmental impact.
+114,shampoo bottle,greenwashing_skepticism,Marketing calls this shampoo bottle 'green' but the ingredients list says otherwise.
+266,skincare set,price_of_ethical,"The eco-friendly version of this skincare set costs almost double, not everyone can afford that."
+286,backpack,corporate_transparency,"This backpack company publishes a detailed sustainability report every year, very transparent."
+221,coffee brand,recycling_biodegradable,The coffee brand packaging is biodegradable which is a nice environmentally friendly touch.
+164,jacket,ethical_sourcing,"Happy to see the jacket uses ethically sourced, cruelty-free materials."
+34,backpack,packaging_waste,Why does a backpack need three layers of plastic wrap? Terrible for the environment.
+198,detergent,ethical_sourcing,I wish there was clearer sourcing information printed on the detergent label.
+330,detergent,animal_testing,"Not clear if this detergent brand tests on animals, wish it was labeled clearly."
+1,furniture set,packaging_waste,"The furniture set came wrapped in so much plastic, it felt so wasteful and unnecessary."
+12,energy drink,packaging_waste,I love that this energy drink uses recyclable cardboard instead of plastic packaging.
+71,handbag,labor_practices,"The company publishes factory audit reports for their handbag, that builds trust."
+109,furniture set,greenwashing_skepticism,I appreciate that the furniture set brand backs its eco claims with third-party certification.
+223,furniture set,recycling_biodegradable,The furniture set packaging is biodegradable which is a nice environmentally friendly touch.
+24,grocery brand,packaging_waste,"Way too much single-use plastic packaging for a small grocery brand, really disappointed."
+14,skincare set,packaging_waste,I love that this skincare set uses recyclable cardboard instead of plastic packaging.
+316,furniture set,corporate_transparency,Would love more transparency from this furniture set brand about their environmental impact.
+65,t-shirt,labor_practices,"The company publishes factory audit reports for their t-shirt, that builds trust."
+296,grocery brand,corporate_transparency,I can't find any information about this grocery brand company's social responsibility efforts.
+130,handbag,carbon_footprint,Loved that this handbag brand offsets carbon emissions from shipping.
+238,smartphone,recycling_biodegradable,Great that this smartphone brand uses recycled materials in their products.
+219,handbag,recycling_biodegradable,The handbag packaging is biodegradable which is a nice environmentally friendly touch.
+163,grocery brand,ethical_sourcing,"Happy to see the grocery brand uses ethically sourced, cruelty-free materials."
+176,furniture set,ethical_sourcing,"Not sure where the raw materials for this furniture set even come from, no info given."
+53,jacket,labor_practices,Glad to see this jacket brand is fair-trade certified and pays workers fairly.
+88,laptop,greenwashing_skepticism,This laptop brand claims to be eco-friendly but I think it's just greenwashing.
+184,jacket,ethical_sourcing,This jacket brand sources materials responsibly and shows proof on their site.
+54,t-shirt,labor_practices,Glad to see this t-shirt brand is fair-trade certified and pays workers fairly.
+256,backpack,price_of_ethical,Willing to pay a bit more for the backpack because it's ethically made.
+73,grocery brand,labor_practices,No transparency about who makes this grocery brand or under what working conditions.
+70,coffee brand,labor_practices,"The company publishes factory audit reports for their coffee brand, that builds trust."
+40,detergent,packaging_waste,Why does a detergent need three layers of plastic wrap? Terrible for the environment.
+246,detergent,price_of_ethical,Sustainable options for this detergent are always so much more expensive than regular ones.
+191,sneakers,ethical_sourcing,"The sneakers ingredients might come from unethical suppliers, hard to verify."
+28,energy drink,packaging_waste,"The energy drink box was biodegradable and compostable, which I really appreciated."
+228,smartphone,recycling_biodegradable,I tried to recycle the smartphone container but my local center won't accept it.
+308,headphones,corporate_transparency,This headphones brand hides behind vague statements instead of real transparency.
+264,furniture set,price_of_ethical,Ethical furniture set brands need to be more affordable for everyday consumers like me.
+292,laptop,corporate_transparency,I can't find any information about this laptop company's social responsibility efforts.
+257,handbag,price_of_ethical,Ethical handbag brands need to be more affordable for everyday consumers like me.
+241,t-shirt,price_of_ethical,Sustainable options for this t-shirt are always so much more expensive than regular ones.
+27,laptop,packaging_waste,"The laptop box was biodegradable and compostable, which I really appreciated."
+170,t-shirt,ethical_sourcing,"Not sure where the raw materials for this t-shirt even come from, no info given."
+239,backpack,recycling_biodegradable,Great that this backpack brand uses recycled materials in their products.
+77,grocery brand,labor_practices,No transparency about who makes this grocery brand or under what working conditions.
+142,smartphone,carbon_footprint,No mention anywhere of the carbon footprint of producing this smartphone.
+210,headphones,recycling_biodegradable,"None of the headphones materials seem recyclable, it will just end up in a landfill."
+171,detergent,ethical_sourcing,"Not sure where the raw materials for this detergent even come from, no info given."
+3,sneakers,packaging_waste,"The sneakers came wrapped in so much plastic, it felt so wasteful and unnecessary."
+265,backpack,price_of_ethical,"The eco-friendly version of this backpack costs almost double, not everyone can afford that."
+168,skincare set,ethical_sourcing,"Happy to see the skincare set uses ethically sourced, cruelty-free materials."
+290,t-shirt,corporate_transparency,I can't find any information about this t-shirt company's social responsibility efforts.
+253,t-shirt,price_of_ethical,Willing to pay a bit more for the t-shirt because it's ethically made.
+252,grocery brand,price_of_ethical,Willing to pay a bit more for the grocery brand because it's ethically made.
+157,skincare set,carbon_footprint,Shipping this skincare set internationally seems terrible for emissions and climate.
+155,energy drink,carbon_footprint,Shipping this energy drink internationally seems terrible for emissions and climate.
+225,grocery brand,recycling_biodegradable,I tried to recycle the grocery brand container but my local center won't accept it.
+298,laptop,corporate_transparency,"They openly share supply chain data for the laptop, which builds a lot of trust."
+146,jacket,carbon_footprint,"This jacket company publishes its carbon emissions every year, very transparent."
+190,handbag,ethical_sourcing,"The handbag ingredients might come from unethical suppliers, hard to verify."
+126,detergent,carbon_footprint,The detergent ships from overseas which must have a huge carbon footprint.
+293,t-shirt,corporate_transparency,I can't find any information about this t-shirt company's social responsibility efforts.
+179,furniture set,ethical_sourcing,This furniture set brand sources materials responsibly and shows proof on their site.
+276,detergent,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible detergent.
+307,t-shirt,corporate_transparency,This t-shirt brand hides behind vague statements instead of real transparency.
+260,skincare set,price_of_ethical,Ethical skincare set brands need to be more affordable for everyday consumers like me.
+326,backpack,animal_testing,Glad this backpack is certified cruelty-free and never tested on animals.
+299,grocery brand,corporate_transparency,"They openly share supply chain data for the grocery brand, which builds a lot of trust."
+52,t-shirt,labor_practices,Glad to see this t-shirt brand is fair-trade certified and pays workers fairly.
+274,headphones,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible headphones.
+5,coffee brand,packaging_waste,"The coffee brand came wrapped in so much plastic, it felt so wasteful and unnecessary."
+38,handbag,packaging_waste,Why does a handbag need three layers of plastic wrap? Terrible for the environment.
+283,furniture set,corporate_transparency,"This furniture set company publishes a detailed sustainability report every year, very transparent."
+235,headphones,recycling_biodegradable,Great that this headphones brand uses recycled materials in their products.
+154,laptop,carbon_footprint,Shipping this laptop internationally seems terrible for emissions and climate.
+68,t-shirt,labor_practices,"The company publishes factory audit reports for their t-shirt, that builds trust."
+203,t-shirt,recycling_biodegradable,This t-shirt is fully recyclable and the company even offers a take-back program.
+319,skincare set,corporate_transparency,Would love more transparency from this skincare set brand about their environmental impact.
+123,furniture set,carbon_footprint,The furniture set ships from overseas which must have a huge carbon footprint.
+305,sneakers,corporate_transparency,This sneakers brand hides behind vague statements instead of real transparency.
+105,furniture set,greenwashing_skepticism,I appreciate that the furniture set brand backs its eco claims with third-party certification.
+134,jacket,carbon_footprint,Loved that this jacket brand offsets carbon emissions from shipping.
+162,headphones,ethical_sourcing,"Happy to see the headphones uses ethically sourced, cruelty-free materials."
+268,coffee brand,price_of_ethical,"The eco-friendly version of this coffee brand costs almost double, not everyone can afford that."
+215,shampoo bottle,recycling_biodegradable,"None of the shampoo bottle materials seem recyclable, it will just end up in a landfill."
+295,sneakers,corporate_transparency,I can't find any information about this sneakers company's social responsibility efforts.
+21,laptop,packaging_waste,"Way too much single-use plastic packaging for a small laptop, really disappointed."
+127,detergent,carbon_footprint,The detergent ships from overseas which must have a huge carbon footprint.
+62,energy drink,labor_practices,"There are rumors of poor factory conditions behind this energy drink, very concerning."
+207,backpack,recycling_biodegradable,This backpack is fully recyclable and the company even offers a take-back program.
+121,skincare set,carbon_footprint,The skincare set ships from overseas which must have a huge carbon footprint.
+35,grocery brand,packaging_waste,Why does a grocery brand need three layers of plastic wrap? Terrible for the environment.
+36,coffee brand,packaging_waste,Why does a coffee brand need three layers of plastic wrap? Terrible for the environment.
+96,smartphone,greenwashing_skepticism,Not convinced their 'sustainable' smartphone claims are backed by any real proof.
+42,shampoo bottle,labor_practices,"I read that workers making this shampoo bottle are underpaid, I won't buy it again."
+261,detergent,price_of_ethical,Ethical detergent brands need to be more affordable for everyday consumers like me.
+304,furniture set,corporate_transparency,"They openly share supply chain data for the furniture set, which builds a lot of trust."
+81,sneakers,greenwashing_skepticism,This sneakers brand claims to be eco-friendly but I think it's just greenwashing.
+272,jacket,price_of_ethical,"The eco-friendly version of this jacket costs almost double, not everyone can afford that."
+258,t-shirt,price_of_ethical,Ethical t-shirt brands need to be more affordable for everyday consumers like me.
+245,handbag,price_of_ethical,Sustainable options for this handbag are always so much more expensive than regular ones.
+300,laptop,corporate_transparency,"They openly share supply chain data for the laptop, which builds a lot of trust."
+336,jacket,animal_testing,"Not clear if this jacket brand tests on animals, wish it was labeled clearly."
+309,sneakers,corporate_transparency,This sneakers brand hides behind vague statements instead of real transparency.
+161,jacket,ethical_sourcing,"Happy to see the jacket uses ethically sourced, cruelty-free materials."
+32,jacket,packaging_waste,"The jacket box was biodegradable and compostable, which I really appreciated."
+278,energy drink,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible energy drink.
+297,skincare set,corporate_transparency,"They openly share supply chain data for the skincare set, which builds a lot of trust."
+30,energy drink,packaging_waste,"The energy drink box was biodegradable and compostable, which I really appreciated."
+112,energy drink,greenwashing_skepticism,I appreciate that the energy drink brand backs its eco claims with third-party certification.
+152,coffee brand,carbon_footprint,"This coffee brand company publishes its carbon emissions every year, very transparent."
+349,jacket,animal_testing,Disappointed to learn this jacket brand still tests on animals in some markets.
+80,t-shirt,labor_practices,No transparency about who makes this t-shirt or under what working conditions.
+250,laptop,price_of_ethical,Willing to pay a bit more for the laptop because it's ethically made.
+285,smartphone,corporate_transparency,"This smartphone company publishes a detailed sustainability report every year, very transparent."
+345,furniture set,animal_testing,Disappointed to learn this furniture set brand still tests on animals in some markets.
+147,headphones,carbon_footprint,"This headphones company publishes its carbon emissions every year, very transparent."
+233,headphones,recycling_biodegradable,Great that this headphones brand uses recycled materials in their products.
+136,t-shirt,carbon_footprint,Loved that this t-shirt brand offsets carbon emissions from shipping.
+200,detergent,ethical_sourcing,I wish there was clearer sourcing information printed on the detergent label.
+2,t-shirt,packaging_waste,"The t-shirt came wrapped in so much plastic, it felt so wasteful and unnecessary."
+195,furniture set,ethical_sourcing,I wish there was clearer sourcing information printed on the furniture set label.
+85,coffee brand,greenwashing_skepticism,This coffee brand brand claims to be eco-friendly but I think it's just greenwashing.
+31,skincare set,packaging_waste,"The skincare set box was biodegradable and compostable, which I really appreciated."
+206,shampoo bottle,recycling_biodegradable,This shampoo bottle is fully recyclable and the company even offers a take-back program.
+110,shampoo bottle,greenwashing_skepticism,I appreciate that the shampoo bottle brand backs its eco claims with third-party certification.
+247,coffee brand,price_of_ethical,Sustainable options for this coffee brand are always so much more expensive than regular ones.
+249,sneakers,price_of_ethical,Willing to pay a bit more for the sneakers because it's ethically made.
+209,energy drink,recycling_biodegradable,"None of the energy drink materials seem recyclable, it will just end up in a landfill."
+86,t-shirt,greenwashing_skepticism,This t-shirt brand claims to be eco-friendly but I think it's just greenwashing.
+122,laptop,carbon_footprint,The laptop ships from overseas which must have a huge carbon footprint.
+48,laptop,labor_practices,"I read that workers making this laptop are underpaid, I won't buy it again."
+8,shampoo bottle,packaging_waste,"The shampoo bottle came wrapped in so much plastic, it felt so wasteful and unnecessary."
+277,energy drink,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible energy drink.
+334,t-shirt,animal_testing,"Not clear if this t-shirt brand tests on animals, wish it was labeled clearly."
+26,skincare set,packaging_waste,"The skincare set box was biodegradable and compostable, which I really appreciated."
+51,t-shirt,labor_practices,Glad to see this t-shirt brand is fair-trade certified and pays workers fairly.
+282,jacket,corporate_transparency,"This jacket company publishes a detailed sustainability report every year, very transparent."
+227,shampoo bottle,recycling_biodegradable,I tried to recycle the shampoo bottle container but my local center won't accept it.
+39,sneakers,packaging_waste,Why does a sneakers need three layers of plastic wrap? Terrible for the environment.
+351,smartphone,animal_testing,Disappointed to learn this smartphone brand still tests on animals in some markets.
+237,grocery brand,recycling_biodegradable,Great that this grocery brand brand uses recycled materials in their products.
+143,laptop,carbon_footprint,No mention anywhere of the carbon footprint of producing this laptop.
+94,furniture set,greenwashing_skepticism,Not convinced their 'sustainable' furniture set claims are backed by any real proof.
+217,headphones,recycling_biodegradable,The headphones packaging is biodegradable which is a nice environmentally friendly touch.
+72,furniture set,labor_practices,"The company publishes factory audit reports for their furniture set, that builds trust."
+230,shampoo bottle,recycling_biodegradable,I tried to recycle the shampoo bottle container but my local center won't accept it.
+275,skincare set,price_of_ethical,Price shouldn't be a barrier to buying a socially responsible skincare set.
+98,smartphone,greenwashing_skepticism,They slap a green leaf logo on the smartphone but nothing about it is actually sustainable.
+99,smartphone,greenwashing_skepticism,They slap a green leaf logo on the smartphone but nothing about it is actually sustainable.
+128,sneakers,carbon_footprint,The sneakers ships from overseas which must have a huge carbon footprint.
+56,handbag,labor_practices,Glad to see this handbag brand is fair-trade certified and pays workers fairly.

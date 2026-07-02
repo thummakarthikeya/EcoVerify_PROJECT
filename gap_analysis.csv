@@ -1,0 +1,7 @@
+consumer_topic,consumer_keywords,best_corporate_match,overlap_score,gap_flag
+Topic 1,"factory condition, concerning, rumor, rumor poor, poor factory, poor",,0.0,GAP
+Topic 2,"worker, underpaid, love, plastic packaging, packaging, plastic",,0.0,GAP
+Topic 3,"energy, energy drink, drink, make, working condition, working",,0.0,GAP
+Topic 4,"bit, ethically made, made, pay bit, claim backed, backed proof",,0.0,GAP
+Topic 6,"vegan, vegan cruelty, free certified, statement transparency, statement, hide vague",,0.0,GAP
+Topic 5,"emission, carbon, carbon emission, shipping, animal, publishes",Topic 6,0.053,GAP
